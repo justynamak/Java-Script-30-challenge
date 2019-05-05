@@ -14,7 +14,9 @@
       <div class="hand hour-hand"></div>
       <div class="hand min-hand"></div>
       <div class="hand second-hand"></div>
+      <div class="circle-middle"></div>
     </div>
+
   </div>
 
 
@@ -67,8 +69,44 @@
       top: 50%;
       transform-origin: 100%;
       transform: rotate(90deg);
-      transition: 0.05s;
-      transition-timing-function: (0.1, 2, 7, 0.58, 1);
+      animation: rotate steps(60);
+      animation-iteration-count: infinite;
+      animation-timing-function: cubic-bezier(0.1, 2.7, 0.58, 1);
+    }
+
+    .hour-hand {
+      height: 10px;
+      width: 35%;
+      left: 15%;
+    }
+
+    .min-hand {
+      height: 10px;
+    }
+
+    .second-hand {
+      height: 3px;
+    }
+
+    .circle-middle {
+      width: 20px;
+      height: 20px;
+      background: #000;
+      border-radius: 50%;
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      transform: translate(-50%, -37%);
+    }
+
+    @keyframes rotate {
+      from {
+        transform: rotate(0deg);
+      }
+
+      to {
+        transform: rotate(360deg);
+      }
     }
   </style>
 
