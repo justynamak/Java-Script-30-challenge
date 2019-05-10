@@ -6,4 +6,5 @@
 <li><a href="https://justynamak.github.io/Java-Script-30-challenge/4-array-cardio/">Day4- Array - cardio</a></li> 
 <li><a href="https://justynamak.github.io/Java-Script-30-challenge/5-flex-panel/index.html">Day5- Flex-panel</a></li> 
 <li><a href="https://justynamak.github.io/Java-Script-30-challenge/6-type-ahead/index.html">Day6- type-ahead</a></li> 
+<li><a href="https://justynamak.github.io/Java-Script-30-challenge/7-array-cardio-day-2/index.html">Day7 -array-cardio-day-2</a></li> 
 </ul>
