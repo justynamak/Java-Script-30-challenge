@@ -1,4 +1,5 @@
 # Java-Script-30-challenge
+
 <ul>
 <li><a href="https://justynamak.github.io/Java-Script-30-challenge/1/">Day1 - Drum Kit</a></li>
 <li><a href="https://justynamak.github.io/Java-Script-30-challenge/2-clock/">Day2 - JS CSS clock</a></li>
@@ -7,4 +8,5 @@
 <li><a href="https://justynamak.github.io/Java-Script-30-challenge/5-flex-panel/index.html">Day5- Flex-panel</a></li> 
 <li><a href="https://justynamak.github.io/Java-Script-30-challenge/6-type-ahead/index.html">Day6- type-ahead</a></li> 
 <li><a href="https://justynamak.github.io/Java-Script-30-challenge/7-array-cardio-day-2/index.html">Day7 -array-cardio-day-2</a></li> 
+<li><a href="https://justynamak.github.io/Java-Script-30-challenge/8-canvas-draw/index.html">Day8 Canvas</a></li> 
 </ul>
