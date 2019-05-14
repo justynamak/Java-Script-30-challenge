@@ -9,5 +9,7 @@
 <li><a href="https://justynamak.github.io/Java-Script-30-challenge/6-type-ahead/index.html">Day6- type-ahead</a></li> 
 <li><a href="https://justynamak.github.io/Java-Script-30-challenge/7-array-cardio-day-2/index.html">Day7 -array-cardio-day-2</a></li> 
 <li><a href="https://justynamak.github.io/Java-Script-30-challenge/8-canvas-draw/index.html">Day8 Canvas</a></li> 
-<li><a href="https://justynamak.github.io/Java-Script-30-challenge/10-hold-shift/index.html">Day10 Hold-shift</a></li> 
+<li><a href="https://justynamak.github.io/Java-Script-30-challenge/10-hold-shift/index.html">Day10 Hold-shift</a></li>
+<li><a href="https://justynamak.github.io/Java-Script-30-challenge/11-custom-video-player/index.html">Day11 Custom-video-player</a></li>  
+<li><a href="https://justynamak.github.io/Java-Script-30-challenge/12-code-sequence-detection/index.html">Day12-Code-sequence-detection</a></li> 
 </ul>
