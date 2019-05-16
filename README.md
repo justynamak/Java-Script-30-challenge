@@ -13,5 +13,5 @@
 <li><a href="https://justynamak.github.io/Java-Script-30-challenge/11-custom-video-player/index.html">Day11 Custom-video-player</a></li>  
 <li><a href="https://justynamak.github.io/Java-Script-30-challenge/13-slide-scroll">Day12-Code-sequence-detection</a></li> 
 <li><a href="https://justynamak.github.io/Java-Script-30-challenge/13-slide-scroll">Day13-Slide-scroll</a></li> 
-<li><a href="https://justynamak.github.io/Java-Script-30-challenge/12-14-refference-vs-copy">Day14-Refference-vs-copy</a></li> 
+<li><a href="https://justynamak.github.io/Java-Script-30-challenge/14-refference-vs-copy">Day14-Refference-vs-copy</a></li> 
 </ul>
