@@ -14,4 +14,5 @@
 <li><a href="https://justynamak.github.io/Java-Script-30-challenge/13-slide-scroll">Day12-Code-sequence-detection</a></li> 
 <li><a href="https://justynamak.github.io/Java-Script-30-challenge/13-slide-scroll">Day13-Slide-scroll</a></li> 
 <li><a href="https://justynamak.github.io/Java-Script-30-challenge/14-refference-vs-copy">Day14-Refference-vs-copy</a></li> 
+<li><a href="https://justynamak.github.io/Java-Script-30-challenge/15-local-storage">Day15-Local-storage and event delegation</a></li>
 </ul>
