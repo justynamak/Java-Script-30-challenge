@@ -16,7 +16,7 @@
 <li><a href="https://justynamak.github.io/Java-Script-30-challenge/14-refference-vs-copy">Day14-Refference-vs-copy</a></li> 
 <li><a href="https://justynamak.github.io/Java-Script-30-challenge/15-local-storage">Day15-Local-storage and event delegation</a></li>
 <li><a href="https://justynamak.github.io/Java-Script-30-challenge/16-mouse-move-effect">Day16-mouse-move-effect</a></li>
-<li><a href="https://justynamak.github.io/Java-Script-30-challenge/17-sort-array">Day17-sort-array</a></li>
+<li><a href="https://justynamak.github.io/Java-Script-30-challenge/17-sort-array/index.html">Day17-sort-array</a></li>
 <li><a href="https://justynamak.github.io/Java-Script-30-challenge/18-reduce">Day18-reduce</a></li>
 
 </ul>
