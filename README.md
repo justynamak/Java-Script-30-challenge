@@ -18,8 +18,8 @@
 <li><a href="https://justynamak.github.io/Java-Script-30-challenge/16-mouse-move-effect">Day16-mouse-move-effect</a></li>
 <li><a href="https://justynamak.github.io/Java-Script-30-challenge/17-sort-array/index.html">Day17-sort-array</a></li>
 <li><a href="https://justynamak.github.io/Java-Script-30-challenge/18-reduce">Day18-reduce</a></li>
-<li><a href="https://justynamak.github.io/Java-Script-30-challenge/22-follow-allow-link">Day22-follow-allow-link</a></li>
+<li><a href="https://justynamak.github.io/Java-Script-30-challenge/22-follow-along-link/">Day22-follow-allow-link</a></li>
 <li><a href="https://justynamak.github.io/Java-Script-30-challenge/24-sticky-nav">Day24-sticky-nav</a></li>
-<li><a href="https://justynamak.github.io/Java-Script-30-challenge/25-events">Day25-events</a></li>
+<li><a href="https://justynamak.github.io/Java-Script-30-challenge/25-events/index.html">Day25-events</a></li>
 
 </ul>
