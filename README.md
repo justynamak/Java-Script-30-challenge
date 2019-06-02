@@ -22,5 +22,6 @@
 <li><a href="https://justynamak.github.io/Java-Script-30-challenge/24-sticky-nav">Day24-sticky-nav</a></li>
 <li><a href="https://justynamak.github.io/Java-Script-30-challenge/25-events/index.html">Day25-events</a></li>
 <li><a href="https://justynamak.github.io/Java-Script-30-challenge/26-Stripe-Follow-Along-Nav/index.html">Day26 - Stripe Follow Along Nav</a></li>
+<li><a href="https://justynamak.github.io/Java-Script-30-challenge/27-Click-and-Drag/index.html">Day 27 - Click and Drag</a></li>
 
 </ul>
